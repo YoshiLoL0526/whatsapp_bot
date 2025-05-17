@@ -1,0 +1,15 @@
+{
+    "browser": {
+        "headless": false,
+        "window_size": "1024,640"
+    },
+    "chat": {
+        "max_history": 20,
+        "check_interval": 10,
+        "storage_path": "history"
+    },
+    "llm": {
+        "default": "gemini",
+        "prompt_template_path": "prompts/default_template.txt"
+    }
+}
