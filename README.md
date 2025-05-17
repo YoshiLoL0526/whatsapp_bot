@@ -22,6 +22,15 @@ Este bot actualmente permite:
 > - Notificar al propietario del bot 🔔  
 > - Generar resúmenes inteligentes de conversaciones 🧾  
 
+## 🧭 ¿Cómo funciona?
+
+El flujo de uso del bot es simple y directo:
+
+1. 🔓 Al ejecutar el bot, se abrirá automáticamente **WhatsApp Web** en una ventana del navegador.
+2. 📲 Debes escanear el **código QR** con tu teléfono (desde la app de WhatsApp) para iniciar sesión.
+3. 💾 Una vez iniciada la sesión, esta se **guarda automáticamente** para que no tengas que volver a escanear el código en futuras ejecuciones.
+4. 🤖 El bot comenzará a **buscar mensajes no respondidos** y generará respuestas automáticas en base al contenido recibido.
+
 ## ⚙️ Requisitos
 
 - Python 3.8 o superior 🐍
